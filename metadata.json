@@ -1,0 +1,6 @@
+{
+  "name": "FSS NU Club Hub",
+  "description": "ศูนย์รวมข่าวสารและช่องทางโซเชียลมีเดีย สโมสรนิสิตและชมรมวิชาการ คณะสังคมศาสตร์ มหาวิทยาลัยนเรศวร",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
